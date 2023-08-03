@@ -7,7 +7,7 @@ const dotenv = require("dotenv").config({
 const { errorHandler } = require("./middleware/errorMiddleware");
 const connectDB = require("./config/db");
 const port = process.env.PORT || 5000;
-const emailRoutes = require("./emailRoutes");
+const emailRoutes = require("./routes/emails/emailRoutes");
 
 // DB connection
 connectDB();
