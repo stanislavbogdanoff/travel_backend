@@ -1,6 +1,7 @@
 # Backend for travlel agency CRM project
 
 **Stack**: Node.js, Express.js, MongoDB, Mongoose.
+
 **Additional tools**: nodemailer, multer.
 
 The essence of this travel project was to create a CRM system for a local travel agency.
