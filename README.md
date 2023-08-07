@@ -1,4 +1,7 @@
-Stack: Node.js, Express.js, MongoDB, Mongoose; nodemailer, multer.
+# Backend for travlel agency CRM project
+
+**Stack**: Node.js, Express.js, MongoDB, Mongoose.
+**Additional tools**: nodemailer, multer.
 
 The essence of this travel project was to create a CRM system for a local travel agency.
 
@@ -15,3 +18,7 @@ Some interesting functionalities:
 The project hadn't been completed due to financial issues, but is overall functional, though not tested. On the server side, I worked alone for the most part writing the most fundamental features, though there are also some important features written by another developer, like photo uploads, recommendations, price ranges and some others.
 
 The current folder lacks the .env file with DB connection string and jwt secret necessary to run the server.
+
+**Author**: Stanislav Bogdanov (formerly Tiryoshin)
+
+[**Telegram**](https://t.me/stanslv18) [**Linkedin**](https://www.linkedin.com/in/stanislav-tiryoshin/)
